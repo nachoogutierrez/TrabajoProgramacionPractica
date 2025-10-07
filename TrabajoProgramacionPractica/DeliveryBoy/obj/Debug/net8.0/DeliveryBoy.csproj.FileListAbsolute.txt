@@ -1,0 +1,5 @@
+C:\Users\LENOVO\Source\Repos\TrabajoProgramacionPractica\DeliveryBoy\obj\Debug\net8.0\DeliveryBoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Source\Repos\TrabajoProgramacionPractica\DeliveryBoy\obj\Debug\net8.0\DeliveryBoy.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Source\Repos\TrabajoProgramacionPractica\DeliveryBoy\obj\Debug\net8.0\DeliveryBoy.AssemblyInfo.cs
+C:\Users\LENOVO\Source\Repos\TrabajoProgramacionPractica\DeliveryBoy\obj\Debug\net8.0\DeliveryBoy.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Source\Repos\TrabajoProgramacionPractica\DeliveryBoy\obj\Debug\net8.0\DeliveryBoy.sourcelink.json

@@ -1,0 +1,15 @@
+c:\Users\LENOVO\source\repos\TrabajoProgramacionPractica\DeliveryBoy\bin\Debug\net6.0\DeliveryBoy.exe
+c:\Users\LENOVO\source\repos\TrabajoProgramacionPractica\DeliveryBoy\bin\Debug\net6.0\DeliveryBoy.deps.json
+c:\Users\LENOVO\source\repos\TrabajoProgramacionPractica\DeliveryBoy\bin\Debug\net6.0\DeliveryBoy.runtimeconfig.json
+c:\Users\LENOVO\source\repos\TrabajoProgramacionPractica\DeliveryBoy\bin\Debug\net6.0\DeliveryBoy.dll
+c:\Users\LENOVO\source\repos\TrabajoProgramacionPractica\DeliveryBoy\bin\Debug\net6.0\DeliveryBoy.pdb
+c:\Users\LENOVO\source\repos\TrabajoProgramacionPractica\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO\source\repos\TrabajoProgramacionPractica\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.AssemblyInfoInputs.cache
+c:\Users\LENOVO\source\repos\TrabajoProgramacionPractica\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.AssemblyInfo.cs
+c:\Users\LENOVO\source\repos\TrabajoProgramacionPractica\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO\source\repos\TrabajoProgramacionPractica\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.sourcelink.json
+c:\Users\LENOVO\source\repos\TrabajoProgramacionPractica\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.dll
+c:\Users\LENOVO\source\repos\TrabajoProgramacionPractica\DeliveryBoy\obj\Debug\net6.0\refint\DeliveryBoy.dll
+c:\Users\LENOVO\source\repos\TrabajoProgramacionPractica\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.pdb
+c:\Users\LENOVO\source\repos\TrabajoProgramacionPractica\DeliveryBoy\obj\Debug\net6.0\DeliveryBoy.genruntimeconfig.cache
+c:\Users\LENOVO\source\repos\TrabajoProgramacionPractica\DeliveryBoy\obj\Debug\net6.0\ref\DeliveryBoy.dll
